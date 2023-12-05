@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#am_modulation",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 1.61278586278586,
+  "lineSizeMultiplier": 0.981185031185031,
+  "collapse-forces": false,
+  "centerStrength": 0.728690228690229,
+  "repelStrength": 14.989604989605,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6554983534946958,
+  "close": true
+}

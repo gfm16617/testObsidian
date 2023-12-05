@@ -1,0 +1,90 @@
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task]:not([data-task=" "]) {
+    text-decoration:none;
+    color: var(--text-normal);
+}
+
+.markdown-preview-view ul > li.task-list-item.is-checked {
+  text-decoration:none;
+  color:var(--text-normal);
+}
+
+.markdown-preview-view ol > li.task-list-item.is-checked {
+  text-decoration:none;
+  color:var(--text-normal);
+}
+
+/* GFM Edits */
+
+.cm-header-1{
+	color:#e100ff;
+	border: 3px solid #A9A9A9;
+	border-radius: 8px; /* Adjust the border-radius to change the roundness */
+	background-color: #f0f0f0; /* Change to your preferred gray color */
+	padding: 6px; /* Adjust the padding for spacing inside the border */
+	display: inline-block; /* Allows setting a specific width */
+	/* display: flex; /* Use flexbox for alignment */
+	/* align-items: center; /* Align vertically */
+	/* justify-content: center; /* Align horizontally */
+	/* width: 300px; /* Change this value for the desired width */
+}
+.cm-header-2{
+	color:#0091ff;
+	border: 3px solid #A9A9A9;
+	border-radius: 8px; /* Adjust the border-radius to change the roundness */
+	background-color: #f0f0f0; /* Change to your preferred gray color */
+	padding: 6px; /* Adjust the padding for spacing inside the border */
+	display: inline-block; /* Allows setting a specific width */
+}
+
+.cm-header-3{
+	color:#00b32d;
+	border: 3px solid #A9A9A9;
+	border-radius: 8px; /* Adjust the border-radius to change the roundness */
+	background-color: #f0f0f0; /* Change to your preferred gray color */
+	padding: 6px; /* Adjust the padding for spacing inside the border */
+	display: inline-block; /* Allows setting a specific width */
+}
+
+.cm-header-4{
+	color:#DEB887;
+	border-top: 2px solid #5F9EA0; /* Top border */
+	border-bottom: 2px solid #5F9EA0; /* Bottom border */
+	display: inline-block; /* Allows setting a specific width */
+}
+
+.markdown-preview-view h1{
+	color:#e100ff;
+	border: 3px solid #A9A9A9;
+	border-radius: 8px; /* Adjust the border-radius to change the roundness */
+	background-color: #f0f0f0; /* Change to your preferred gray color */
+	padding: 6px; /* Adjust the padding for spacing inside the border */
+	display: inline-block; /* Allows setting a specific width */
+	/* display: flex; /* Use flexbox for alignment */
+	/* align-items: center; /* Align vertically */
+	/* justify-content: center; /* Align horizontally */
+	/* width: 300px; /* Change this value for the desired width */
+}
+.markdown-preview-view h2{
+	color:#0091ff;
+	border: 3px solid #A9A9A9;
+	border-radius: 8px; /* Adjust the border-radius to change the roundness */
+	background-color: #f0f0f0; /* Change to your preferred gray color */
+	padding: 6px; /* Adjust the padding for spacing inside the border */
+	display: inline-block; /* Allows setting a specific width */
+	margin-bottom: 20px; /* Add space after the heading */
+}
+.markdown-preview-view h3{
+	color:#00b32d;
+	border: 3px solid #A9A9A9;
+	border-radius: 8px; /* Adjust the border-radius to change the roundness */
+	background-color: #f0f0f0; /* Change to your preferred gray color */
+	padding: 6px; /* Adjust the padding for spacing inside the border */
+	display: inline-block; /* Allows setting a specific width */
+}
+
+.markdown-preview-view h4{
+	color:#DEB887;
+	border-top: 2px solid #5F9EA0; /* Top border */
+	border-bottom: 2px solid #5F9EA0; /* Bottom border */
+	display: inline-block; /* Allows setting a specific width */
+}

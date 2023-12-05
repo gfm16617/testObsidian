@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "6371db01b1415bb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "716c02acad7ec782",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a99be7f7e2abf7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_AM_Modulation/02_DSBSC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c0a510cf61fa2f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb096bab0b9598e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b93a3abe45128f45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "789edfac94624ffb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9675a7390c46b4be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5
+  },
+  "right": {
+    "id": "523a0d91711cc9a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a42f12cc897aa26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ade02a160ff9326",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_AM_Modulation/02_DSBSC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d256c10d7d7cf680",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_AM_Modulation/02_DSBSC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "814de87b20142b90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c6aeb588e4d1996f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_AM_Modulation/02_DSBSC.md"
+              }
+            }
+          },
+          {
+            "id": "2fc5eb345d7a8cc3",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-gallery:Gallery": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "7a99be7f7e2abf7b",
+  "lastOpenFiles": [
+    "09_Support_Knowledge/03_Fourier_Analysis.md",
+    "02_AM_Modulation/08_SSB_Weavers.md",
+    "02_AM_Modulation/07_SSB_Phasing.md",
+    "02_AM_Modulation/06_SSB_Filtering.md",
+    "02_AM_Modulation/05_SSB_intro.md",
+    "02_AM_Modulation/04_Modulation_Index.md",
+    "02_AM_Modulation/03_DSBFC.md",
+    "02_AM_Modulation/02_DSBSC.md",
+    "02_AM_Modulation/01_Intro.md",
+    "01_Introduction/04_What_is_Modulation.md",
+    "01_Introduction/03_The_Need_for_Modulation.md",
+    "01_Introduction/02_Part_A.md",
+    "01_Introduction/01_Hello.md",
+    "00_Cover/02_References.md",
+    "00_Cover/01_Cover.md",
+    "01_Introduction/03x_Lab.md",
+    "01_Introduction/06_Complementary_Knowledge.md",
+    "images/DSBSC_block_diagram.png.0.pdnSave",
+    "Excalidraw/Analog_Comms_Map.md",
+    "Excalidraw/Analog_Comms_AM_Block_Diagrams.md",
+    "Books_Annotation_Test.md",
+    "images/math_pure_carrier.png.0.pdnSave",
+    "images/gain_of_dipole_antennas.png.0.pdnSave",
+    "images/audio_bands_table.png.0.pdnSave",
+    "images/antenna_gain_effective_area.png.0.pdnSave",
+    "images/antenna_length_vs_wavelength.png.0.pdnSave",
+    "images/voltage_source_applied_antenna.png.0.pdnSave",
+    "images/rabbit_ears_antenna.png.0.pdnSave",
+    "09_Support_Knowledge/04_Filters.md",
+    "images/fourier_transform_pair_sin.png.0.pdnSave",
+    "images/fourier_transform_pair_cos.png.0.pdnSave",
+    "images/fourier_transform_pair_cos - Copy.png",
+    "document.md",
+    "test.md",
+    "images/play_icon.png",
+    "DSBSC_Canvas.canvas",
+    "images/DSBSC_block_diagram.png",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
+    "images/types_amplitude_modulation_map.png",
+    "images/Diagram_PartA_analog_comms_mac.png",
+    "TestCanvas.canvas",
+    "images/ssb_phasing_theory.png",
+    "images/ssb_phasing_animation_probe3.gif"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "baseFontSize": 18,
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "myStyleEdits",
+    "pageNumber"
+  ],
+  "baseFontSizeAction": true,
+  "theme": "moonstone"
+}

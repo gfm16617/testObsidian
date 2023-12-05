@@ -1,0 +1,23 @@
+div.page-break:after {
+  content: ">> Page Break";
+}
+
+@media print {
+
+  body {
+    counter-reset: page;
+  }
+
+  div.page-break {
+    page-break-before: always;
+    position: relative;
+  }
+
+  div.page-break:after {
+    counter-increment: page;
+    content:"Page " counter(page);
+    position: absolute;
+    top: 10mm;
+    right: 10mm;
+  }
+}
